@@ -6,7 +6,8 @@ Luma is an independent Windows x64 desktop launcher demo for Minecraft: Java Edi
 
 ## Features in development
 
-- Microsoft account sign-in in the system browser, with authorization-code flow, PKCE and a local desktop callback.
+- Microsoft account sign-in in the system browser, with authorization-code flow, PKCE and a local desktop callback. Resolved we can sign in your minecraft acc now
+- 
 - Authenticated Minecraft profile retrieval and skin viewing or updating through the official services.
 - Java runtime support, separate 1.8.9 vanilla and Forge instances, and configurable game settings.
 - Compatible mod discovery and installation through Modrinth, with dependency handling and file integrity checks.
@@ -36,6 +37,6 @@ The project has 24 passing automated checks covering launcher configuration, OAu
 
 Luma 是 Windows x64 的 Minecraft Java 版啟動器 Demo，目前針對 1.8.9 原版與 Forge。提供透明玻璃桌面介面、Microsoft 正版登入流程、模組搜尋、資源包匯入、遊戲設定與可自行部署的聯機中繼。
 
-目前 Microsoft 與 Xbox 驗證已通過；Minecraft 服務回覆 HTTP 403、`Invalid app registration`，需要申請應用存取資格。尚未完成 Minecraft 角色登入、實際遊玩與皮膚同步驗收。此專案頁只介紹開發中的功能與現況。
+目前 Microsoft 與 Xbox 驗證已通過；Minecraft 服務回覆 HTTP 403、`Invalid app registration`，需要申請應用存取資格。尚未完成 Minecraft 角色登入、實際遊玩與皮膚同步驗收。此專案頁只介紹開發中的功能與現況。(己解決)
 
-Luma is not an official Minecraft product and is not approved by or associated with Mojang or Microsoft. It is also independent of Badlion and Apple. Minecraft is a trademark of Mojang/Microsoft.
+Luma is not an official Minecraft product and is not approved by or associated with Mojang or Microsoft. It is also independent of Badlion and Apple. Minecraft is a trademark of Mojang/Microsoft.(Resolved)
