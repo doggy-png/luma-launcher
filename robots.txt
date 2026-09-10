@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://doggy-png.github.io/luma-launcher/sitemap.xml
